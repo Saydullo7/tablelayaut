@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TableRow>
+
+            <TextView
+                android:text="Rang"
+                android:background="#89FF00"
+                android:textSize="30sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="1"
+                android:textSize="25sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="2"
+                android:textSize="25sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="3"
+                android:textSize="25sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="4"
+                android:textSize="25sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="5"
+                android:textSize="25sp"/>
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TableRow>
+            <TextView
+                android:text="  Player"
+                android:background="#89FF00"
+                android:textSize="30sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Saydullo"
+                android:textSize="25sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Asadbek"
+                android:textSize="25sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Ali"
+                android:textSize="25sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Azizbek"
+                android:textSize="25sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Sardor"
+                android:textSize="25sp"/>
+        </TableRow>
+
+
+
+    </TableLayout>
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TableRow>
+
+            <TextView
+                android:text=" Team           Points"
+                android:background="#89FF00"
+                android:textSize="30sp" />
+        </TableRow>
+        <TextView
+            android:text="   uz               889 "
+            android:textSize="25sp"/>
+        <TableRow>
+            <TextView
+                android:text="   uz               798"
+                android:textSize="25sp"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="   uz               734"
+                android:textSize="25sp"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="   uz               867"
+                android:textSize="25sp"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="   uz               836"
+                android:textSize="25sp"/>
+        </TableRow>
+
+
+
+
+
+
+    </TableLayout>
+   <TableLayout
+       android:layout_width="wrap_content"
+       android:layout_height="match_parent"/>
+    <TableRow>
+        <TextView
+            android:text="dshsjzgdzsdchc"
+            android:textSize="20sp"/>
+    </TableRow>
+
+
+
+
+
+</LinearLayout>
+
+
+
+
+
